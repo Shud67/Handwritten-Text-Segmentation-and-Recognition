@@ -1,5 +1,5 @@
-# Handwritten-Captcha-Recognition
-## This is a repository having source code of Handwritten Captcha Recognition using EMNIST Dataset.
+# Handwritten-Text-Segmentation-and-Recognition
+## This is a repository having source code of Handwritten-Text-Segmentation-and-Recognition using EMNIST Dataset.
 ## _____________________________________________
 
 I have trained this model using EMNIST Bymerge Dataset having 814,255 Images in total and 47 Classes. Some of the upper and lower case characters are identified as same to increase the accuracy of my model. This dataset has about 6.98 lakhs Training and 1.12 lakhs Testing Images. I got a Accuracy of 92% on my Training dataset and 90.76% on my Testing Dataset.
