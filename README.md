@@ -51,7 +51,7 @@ Activate Virtual Environment:
 Clone the Repo.
 #### git clone https://github.com/Shud67/Handwritten-Text-Segmentation-and-Recognition
 Go to the location of your cloned repo.
-#### cd Handwritten-Captcha-Recognition
+#### cd Handwritten-Text-Segmentation-and-Recognition
 Install requirements:
 #### pip install requirements.txt
 Please note that I had install ROS in the same environment so some errors may arise due to this. Kindly remove all those files creating the errors from requirements.txt .
