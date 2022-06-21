@@ -54,7 +54,6 @@ Go to the location of your cloned repo.
 #### cd Handwritten-Text-Segmentation-and-Recognition
 Install requirements:
 #### pip install requirements.txt
-Please note that I had install ROS in the same environment so some errors may arise due to this. Kindly remove all those files creating the errors from requirements.txt .
 
 Run the files and model:
 #### python submission.py merge4.h5
